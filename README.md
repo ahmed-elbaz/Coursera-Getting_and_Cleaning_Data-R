@@ -9,7 +9,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 This repository contains the following files:
 
 README.md, this file, which provides an overview of the data set and how it was created.
+
 CodeBook.md, the code book, which shows inofmration about variables
+
 run_analysis.R, the R script that was used to create the tidy data set.
 
 # Creating the data set
