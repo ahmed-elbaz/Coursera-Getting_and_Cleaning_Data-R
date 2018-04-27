@@ -1,5 +1,5 @@
-# Objective is to read data collected from the accelerometers from the Samsung Galaxy S smartphone and
-# make some manipulation in order to output tiday data
+# The Objective of this script is to read data collected from the accelerometers from the Samsung Galaxy S smartphone and
+# make some manipulation in order to output tidy data
 # It was assumed in that code that data in "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
 #was downloaded and extraced in R working directory
 
